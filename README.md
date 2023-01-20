@@ -54,7 +54,7 @@
 
 ## What is good code?
 
-1. Readable 
+1. Readable
 2. Scalable
 
 ## Which code is best?
@@ -62,3 +62,27 @@
 1. Readable
 2. Memory - Space Complexity - Heap and Stack
 3. Speed - Time Complexity
+
+# 4. How To Solve Coding Problems
+
+1. Analytic Skills
+2. Coding Skills
+3. Technical Skills
+4. Communication Skills
+
+```Markdown
+    * Data Structures
+        * Array
+        * Stacks
+        * Queues
+        * Linked Lists
+        * Trees
+        * Tties
+        * Graphs
+        * Hash Tables
+    * Algorithms
+        * Sorting
+        * Dynamic Programming
+        * BFS +DFS (Serching)
+        * Recursion
+```
