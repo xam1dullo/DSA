@@ -54,7 +54,7 @@
 
 ## What is good code?
 
-1. Readable 
+1. Readable
 2. Scalable
 
 ## Which code is best?
@@ -62,3 +62,4 @@
 1. Readable
 2. Memory - Space Complexity - Heap and Stack
 3. Speed - Time Complexity
+
