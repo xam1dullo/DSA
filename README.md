@@ -1,4 +1,4 @@
-# Data Structures Algorithms
+# **_Data Structures Algorithms_**
 
 # 3. Big O Notation
 
@@ -62,7 +62,7 @@
     1. Readable
     2. Memory - Space Complexity - Heap and Stack
     3. Speed - Time Complexity
-   
+
 # 4. How To Solve Coding Problems
 
 1. Analytic Skills
@@ -86,3 +86,18 @@
         * BFS +DFS (Serching)
         * Recursion
 ```
+
+# 5. Data Structures Introduction
+
+[List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
+
+## What is a Data Structure?
+
+    1 . How to build One
+    2.  How to Use it
+
+
+
+    *  CPU - Central processing unit
+    *  RAM - Random Access memory
+    *  Storage - Storage is something you use to put your stuff in
